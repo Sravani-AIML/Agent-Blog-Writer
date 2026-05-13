@@ -1,3 +1,12 @@
 .env 
 __pycache__/ 
 *.pyc 
+*.pyd
+.git 
+.gitignore
+*.md
+images/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

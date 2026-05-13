@@ -1,3 +1,4 @@
+streamlit
 langchain
 langgraph
 langchain-openai
@@ -5,3 +6,4 @@ langchain-community
 pydantic
 python-dotenv
 tavily-python
+google-genai
