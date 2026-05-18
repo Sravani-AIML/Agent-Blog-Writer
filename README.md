@@ -1,4 +1,4 @@
-[the_future_of_agentic_ai_trends_architecture_and_adoption_in_2026.md](https://github.com/user-attachments/files/27972106/the_future_of_agentic_ai_trends_architecture_and_adoption_in_2026.md)# 🤖 Agentic Blog Writer
+# 🤖 Agentic Blog Writer
  
 > An autonomous multi-agent AI pipeline that researches, writes, and publishes fully grounded 2,000+ word blog posts with citations, code snippets, and AI-generated images — in under 3 minutes.
  
